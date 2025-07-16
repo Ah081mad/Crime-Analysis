@@ -1,7 +1,7 @@
-# Crime Reporting Delay Analysis – Power BI
+# Crime Analysis – Power BI
 
 ## Project Overview
-This dashboard examines delays between crime occurrence and reporting. The goal is to provide actionable insights agencies and community leaders to support better decision-making in public safety and community policing and improve response efficiency. 
+This dashboard Analyzed crime occurrence. The goal is to provide actionable insights to agencies and community leaders to support better decision-making in public safety and community policing and improve response efficiency. 
 
 ## Tools Used
 - Power BI
